@@ -26,14 +26,16 @@ Python, Pandas, NumPy, Sklearn, Matplotlib, statsmodels
 **Instructions**
 Please perform the following tasks in Python.
 
-1. Open and read the csv files using pandas. The data did not need any cleaning because it did not contain any invalid fields/data.
-2. Import the libraries.
-3. Exploratory analysis
-4. Regression Analysis
-5. Box plots
-6. Histograms were used to understand where the wine qualities were concentrated. We used __ to plot our histograms with quality.
-7. Independent variables are columns (physiochemical properties). dependent is quality
-8.
+1. Open and read the csv files using pandas. 
+2. Display how many records are in each of the files.
+3. The data did not need any cleaning because it did not contain any invalid fields/data.
+4. Import the libraries.
+5. Exploratory analysis
+6. Regression Analysis
+7. Box plots
+8. Histograms were used to understand where the wine qualities were concentrated. We used __ to plot our histograms with quality.
+9. Independent variables are columns (physiochemical properties). dependent is quality
+10.
 
 
 **Exploratory Analysis:**
