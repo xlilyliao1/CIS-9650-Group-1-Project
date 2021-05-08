@@ -8,23 +8,24 @@ We are trying to determine which physicochemical properties of wine have the mos
 
 
 **Files:**
-For this project we will use two datasets which total 6499 records, which represent a wine and their properties and their qualities. 
+For this project we will use two datasets which total 6499 records, which represent a wine and their properties and their qualities. They are saved in Github but can calso be found using the links below.
 
 -winequality-white.csv 
 -winequality-red.csv  
 
-You can also find the files here. 
+Wine Quality – Red: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv 
+Wine Quality – White: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv 
+Preview of datasets above: https://archive.ics.uci.edu/ml/datasets/wine+quality 
 
 **Tools used:**
 Python, Pandas, NumPy, Sklearn, Matplotlib, statsmodels
 
-**Exploratory Analysis:**
-
 
 **Instructions**
-Please perform the following tasks in Python using the 2 datasets available from the GitHub repo or _.
+Please perform the following tasks in Python.
 
 1. Open and read the csv files using pandas. The data did not need any cleaning because it did not contain any invalid fields/data.
+2. Import the libraries.
 3. Exploratory analysis
 4. Regression Analysis
 5. Box plots
