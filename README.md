@@ -2,8 +2,7 @@
 #### Shoma Babulal, Alexandra Garofali, Fang Li, Lily Liao, Tiffany Ramkaran, Ziwen Zhang
 
 **Objective:**
-We are trying to determine which physicochemical properties of wine have the most impact on quality. The physiochemical properties in our data set are: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol.
-
+We are trying to determine which physicochemical properties of wine have the most impact on quality. The physiochemical properties in our data set are: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. To understand the defintions of these properties, please review the document "Understanding Wine Attributes and Properties" in this repository.
 
 **Files:**
 For this project we will use two datasets which total 6499 records, which represent a wine and their properties and their qualities. They are saved in Github but can calso be found using the links below.
