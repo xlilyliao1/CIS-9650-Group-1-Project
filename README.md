@@ -37,9 +37,11 @@ Please perform the following tasks in Python.
 8. Histograms were used to understand where the wine qualities were concentrated. We used __ to plot our histograms with quality.
 9. Independent variables are columns (physiochemical properties). dependent is quality
 
+We perform the same analysis for red and white wine.
+
 **Exploratory Analysis:**
 
-We to understand our dependent variable, Quality so we calculated look at min, max and average. Then we also wanted to see the distribution of our data. We created a histogram to visualize where most of our data 
+We to understand our dependent variable, Quality so we calculated look at min, max and average. Then we also wanted to see the distribution of our data. We created a histogram to visualize where most of our data. Now that we looked at our dependent variable, let's look at our independent variables in relataion to Quantitiy. To do so, we will look at each physiochemical properties quartile ranges for each quality score.  
 
 **Linear Regression Analysis:**
 
