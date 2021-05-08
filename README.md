@@ -38,3 +38,8 @@ Please perform the following tasks in Python using the 2 datasets available from
 
 
 **Findings:**
+Fang - Boxplots
+Conclusion: the graph shows the most of the wine quality concentrates betwene 5 and 6.
+conclusion: High quality wine has high level of alcohol,
+citric acid, and sulphates;
+low level of density and pH.   
