@@ -1,8 +1,5 @@
-# CIS-9650-Group-1-Project
-## Shoma Babulal, Alexandra Garofali, Fang Li, Lily Liao, Tiffany Ramkaran, Ziwen Zhang
-
-# Wine Quality Project
-Physiochemical Properties and Quality of Wine
+# CIS-9650-Group-1-Project Physiochemical Properties and Quality of Wine
+#### Shoma Babulal, Alexandra Garofali, Fang Li, Lily Liao, Tiffany Ramkaran, Ziwen Zhang
 
 **Objective:**
 We are trying to determine which physicochemical properties of wine have the most impact on quality. The physiochemical properties in our data set are: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol.
