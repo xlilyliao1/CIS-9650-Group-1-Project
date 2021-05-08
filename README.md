@@ -10,9 +10,9 @@ For this project we will use two datasets which total 6499 records, which repres
 -winequality-white.csv 
 -winequality-red.csv  
 
-[Wine Quality – Red](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv).
-[Wine Quality – Red](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv).
-Preview of datasets above: https://archive.ics.uci.edu/ml/datasets/wine+quality 
+[Wine Quality – Red](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv).<br />
+[Wine Quality – Red](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv).<br />
+Preview of datasets above: https://archive.ics.uci.edu/ml/datasets/wine+quality <br />
 
 **Tools used:**
 Python, Pandas, NumPy, Sklearn, Matplotlib, statsmodels
@@ -35,10 +35,10 @@ We perform the same analysis for red and white wine.
 
 **Exploratory Analysis:**
 
-We to understand our dependent variable, Quality so we calculated look at min, max and average. Then we also wanted to see the distribution of our data. We created a histogram to visualize where most of our data. Now that we looked at our dependent variable, let's look at our independent variables in relataion to Quantitiy. To do so, we will look at each physiochemical properties quartile ranges for each quality score.  
+We to understand our dependent variable, Quality so we calculated look at min, max and average. Then we also wanted to see the distribution of our data. We created a histogram to visualize where most of our data. Now that we looked at our dependent variable, let's look at our independent variables in relataion to Quantitiy. To do so, we will look at each physiochemical properties quartile ranges for each quality score.  <br />
 
-**Linear Regression Analysis:**
+**Linear Regression Analysis:**<br />
 
-**Findings:**
+**Findings:**<br />
 The graph shows the most of the wine quality concentrates betwene 5 and 6.
 High quality wine has high level of alcohol, citric acid, and sulphates; low level of density and pH.   
