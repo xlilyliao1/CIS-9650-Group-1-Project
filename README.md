@@ -28,7 +28,7 @@ Please perform the following tasks in Python using the 2 datasets available from
 2. Exploratory analysis
 3. Regression Analysis
 4. Box plots
-5. Histograms
+5. Histograms were used to understand where the wine qualities were concentrated. We used __ to plot our histograms with quality.
 6. Independent variables are columns (physiochemical properties). dependent is quality
 7.
 
