@@ -16,7 +16,7 @@ winequality-red.csv
 You can also find the files here. 
 
 **Tools used:**
-Python, Pandas, NumPy, Sklearn, Matplotlib
+Python, Pandas, NumPy, Sklearn, Matplotlib, statsmodels
 
 **Exploratory Analysis:**
 
