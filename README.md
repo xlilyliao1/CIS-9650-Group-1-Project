@@ -1,4 +1,5 @@
 # CIS-9650-Group-1-Project
+## Shoma Babulal, Alexandra Garofali, Fang Li, Lily Liao, Tiffany Ramkaran, Ziwen Zhang
 
 # Wine Quality Project
 Physiochemical Properties and Quality of Wine
