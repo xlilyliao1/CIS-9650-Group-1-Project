@@ -38,6 +38,7 @@ We perform the same analysis for red and white wine.
 We to understand our dependent variable, Quality so we calculated look at min, max and average. Then we also wanted to see the distribution of our data. We created a histogram to visualize where most of our data. Now that we looked at our dependent variable, let's look at our independent variables in relataion to Quantitiy. To do so, we will look at each physiochemical properties quartile ranges for each quality score.  <br />
 
 **Linear Regression Analysis:**<br />
+Based on the linear regression analysis,
 
 **Findings:**<br />
 The graph shows the most of the wine quality concentrates betwene 5 and 6.
