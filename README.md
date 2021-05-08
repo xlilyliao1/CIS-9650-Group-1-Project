@@ -10,10 +10,8 @@ For this project we will use two datasets which total 6499 records, which repres
 -winequality-white.csv 
 -winequality-red.csv  
 
-Wine Quality – Red: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv 
-
-Wine Quality – White: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv 
-
+[Wine Quality – Red](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv).
+[Wine Quality – Red](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv).
 Preview of datasets above: https://archive.ics.uci.edu/ml/datasets/wine+quality 
 
 **Tools used:**
