@@ -33,21 +33,24 @@ Please perform the following tasks in Python.
 
 We perform the same analysis for red and white wine.
 
-Note: the heatmap for red wine will overlap with the comparison countplot if we run the code entirely. 
-In order to see the graph indvidually, you would need to comment out 1 and run the other.
-
-
 **Exploratory Analysis:**
 
 We to understand our dependent variable, Quality so we calculated look at min, max and average. Then we also wanted to see the distribution of our data. We created a histogram to visualize where most of our data. Now that we looked at our dependent variable, let's look at our independent variables in relataion to Quantitiy. To do so, we will look at each physiochemical properties quartile ranges for each quality score.  <br />
 
-**Linear Regression Analysis:**<br />
-Based on the linear regression analysis:
-White Wine:
-All of the properties have a positive impact on quality, with the exception of volatile acidity. This means that when volatile acidity increases, the quality of White wine diminishes. 
-
-Alcohol and Density have the highest coefficients, meaning they have the highest impact on white wine's quality score. Density is highly correlated to residual sugar, meaning that they move in the same direction. As sugar increases, density will increase, or vice versa.
 
 **Findings:**<br />
 The graph shows the most of the wine quality concentrates betwene 5 and 6.
 High quality wine has high level of alcohol, citric acid, and sulphates; low level of density and pH.   
+
+**Linear Regression Analysis:**<br />
+Based on the linear regression analysis: 
+White Wine:
+All of the properties have a positive impact on quality, with the exception of volatile acidity. This means that when volatile acidity increases, the quality of White wine diminishes. 
+Alcohol and Density have the highest coefficients, meaning they have the highest impact on white wine's quality score. Density is highly correlated to residual sugar, meaning that they move in the same direction. As sugar increases, density will increase, or vice versa.
+
+Red Wine:
+Only about 75% of the properties have postitive impact on red wine quality. The properties that have negative impact on Red wine's quality are chlorides, total sulfur dioxide, and volatile acidity. 
+Similar to White wine, Alcohol had the highest coefficient, meaning it has the most impact on quality score. pH also has a high coefficient and therefore a high impact on quality. This may be due to the fact that high pH allows Red wine to age faster and have a fuller body.  
+
+**Conclusion:**<br />  
+- Rate your wine at home like an expert 
