@@ -54,7 +54,7 @@ Physicochemical Properties Exploratory Analysis in relation to Quality
 -	Interquartile ranges for each quality score
 <br />
 
-**Regression Analysis & Model Validation** 
+**Regression Analysis & Model Validation** <br />
 Regression analysis is a statistical process which allows one to estimate the strength of a relationship between a dependent and independent variable(s). This analysis determines the relationship strength between wine quality and physiochemical properties. All properties were modeled in the first iteration of the model. After testing for VIF, it became evident that there was multicollinearity between variables, as many VIFs were higher than 10. This means that the properties are too correlated with each other, and so when modeled, they behave the same way. Therefore, the model is unable to get an accurate read of the individual impact of each property since the properties are acting in a similar manner. The second run removes variables with high VIF; however, after testing for VIF again, there were still variables with VIFs higher than 10. After removing more variables, the third model ended up with the strongest results, as VIF for each variable was less than 10. Although VIF should usually be under 5, for this analysis we decided 10 would be acceptable, as the physiochemical properties all work together to create quality wine. 
 
 
